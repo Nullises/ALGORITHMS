@@ -103,7 +103,7 @@ class LinkedList {
     throw new Error(`Node with data '${afterData}' not found in list!`);
   }
 
-  // CHECK IF A NODE CONTAINS A DATA
+  // CHECK IF A LINKED LIST CONTAINS A NODE
   contains(data) {
     let current = this.head;
 
