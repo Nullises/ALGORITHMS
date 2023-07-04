@@ -1,3 +1,5 @@
+// JUST FOR REFERENCE
+
 // Create our array!
 let groceries = ["Milk", "Eggs", "Cereal", "Salami", "Juice"];
 
