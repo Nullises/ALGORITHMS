@@ -30,3 +30,5 @@ letters.addBefore("A", "5");
 console.log(letters.toArray()); // ['5', 'A', 'B', 'Q', 'H' 'D', 'E']
 
 console.log(letters.length); // 7
+console.log("contains g?", letters.contains("g")); // false
+console.log("contains 5?", letters.contains("5")); // true
