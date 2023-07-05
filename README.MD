@@ -1,5 +1,11 @@
 - Javascript Algorithms in Node.js
 
+Examples based on: https://www.kirupa.com/ and 
+
+https://app.pluralsight.com/library/courses/algorithms-data-structures-part-one/table-of-contents
+
+https://app.pluralsight.com/library/courses/algorithms-data-structures-part-two/table-of-contents
+
 SETUP
 ```
 npm i
