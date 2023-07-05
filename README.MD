@@ -45,3 +45,11 @@ node o_log_1.js
 5. Queues
 6. Binary Tree
 7. Binary Search Tree
+8. Hashtables (Map)
+
+### Algorithms
+
+9. Bubble Sort (Array)
+10. Insertion Sort (Array)
+11. Merge Sort (Array)
+12. Quick Sort (Array)
