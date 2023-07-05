@@ -157,7 +157,7 @@ class LinkedList {
     this.size--;
   }
 
-  // REMOVE NODE
+  // REMOVE NODES FROM LINKED LIST
   remove(data) {
     if (this.size === 0) {
       throw new Error("List is empty");
@@ -196,6 +196,25 @@ class LinkedList {
     }
 
     return arr;
+  }
+
+  *enumerate(value) {
+    let current = this.head;
+
+    // While exist elements in LinkedList
+    while (current) {
+      // Adds 1 to counter (value)
+      const step = value++;
+      if (step) {
+        current = current.next;
+      }
+      const enumerable = {
+        counter: step,
+        node: current,
+      };
+
+      yield enumerable;
+    }
   }
 
   // LENGTH OF LINKED LIST
