@@ -49,7 +49,11 @@ node o_log_1.js
 
 ### Algorithms
 
-9. Bubble Sort (Array)
-10. Insertion Sort (Array)
-11. Merge Sort (Array)
-12. Quick Sort (Array)
+#### Array Sorting Algorithms
+9. Bubble Sort 
+10. Insertion Sort 
+11. Merge Sort 
+12. Quick Sort 
+
+#### Array Searching Algorithms
+
