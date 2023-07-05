@@ -57,3 +57,10 @@ node o_log_1.js
 
 #### Array Searching Algorithms
 
+13. Linear Search
+14. Binary Search
+
+#### Binary Search Tree Algorithm
+
+15. Binary Search Tree
+
