@@ -28,6 +28,8 @@ node o_log_1.js
 
 ## CONCEPTS AND ALGORITHMS COVERED
 
+### Asymptotic Analysis
+
 1. Big O
 - O(1)
 - O(n)
@@ -35,3 +37,11 @@ node o_log_1.js
 - O(n2)
 - O(nm)
 
+### Data Structures
+
+2. Arrays
+3. Linked Lists
+4. Stacks
+5. Queues
+6. Binary Tree
+7. Binary Search Tree
