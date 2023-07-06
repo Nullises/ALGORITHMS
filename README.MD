@@ -64,3 +64,7 @@ node o_log_1.js
 
 15. Binary Search Tree
 
+#### String Search Algorithms
+
+16. Naive String Searching Algorithm
+17. Boyer-Moore-Horspool Searching Algorithm
