@@ -46,25 +46,26 @@ node o_log_1.js
 6. Binary Tree
 7. Binary Search Tree
 8. Hashtables (Map)
+9. Heap
 
 ### Algorithms
 
 #### Array Sorting Algorithms
-9. Bubble Sort 
-10. Insertion Sort 
-11. Merge Sort 
-12. Quick Sort 
+10. Bubble Sort 
+11. Insertion Sort 
+12. Merge Sort 
+13. Quick Sort 
 
 #### Array Searching Algorithms
 
-13. Linear Search
-14. Binary Search
+14. Linear Search
+15. Binary Search
 
 #### Binary Search Tree Algorithm
 
-15. Binary Search Tree
+16. Binary Search Tree
 
 #### String Search Algorithms
 
-16. Naive String Searching Algorithm
-17. Boyer-Moore-Horspool Searching Algorithm
+17. Naive String Searching Algorithm
+18. Boyer-Moore-Horspool Searching Algorithm
